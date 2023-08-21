@@ -1,1 +1,2 @@
-# TechnoHacks_EduTech_August_Task2_Temperature_Converter
+# Temperature-Convertor
+Website converting temperature from celsius to fahreheit and vice-versa created using CSS and JavaScript.
